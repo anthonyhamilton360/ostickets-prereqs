@@ -18,11 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure Virtual Machine Windows 10, 4 vCPUs
+- osTicket Installation Files
+- Admin User Credentials (for database and osTicket setup)
+- PHP 7.4 - 8.0 (Latest stable version recommended)
+- MySQL 5.5+ or MariaDB 10.0+
 
 <h2>Installation Steps</h2>
 
