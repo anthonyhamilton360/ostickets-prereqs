@@ -559,7 +559,7 @@ Right click again and start the connection.
 
 </p>
 <p>
-Go yo the osTicket installtion files, right click on the osTicket-v1.15.8 file and click Extract All.
+Go to the osTicket installtion files, right click on the osTicket-v1.15.8 file and click Extract All.
 </p>
 <br />
 
@@ -730,7 +730,7 @@ Click Add.
 
 
 <p>
-Type Everyne and click OK
+Type Everyone and click OK.
 </p>
 <br />
 
