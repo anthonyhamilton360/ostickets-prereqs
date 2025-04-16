@@ -233,7 +233,7 @@ Reftresh the loopback address of 127.0.0.1 and we can see that IIS has been inst
 
 </p>
 <p>
-Go tothe osTicket installation files that was extracted to the desktop andlaunch the PHP Manager installation.
+Go to the osTicket installation files that was extracted to the desktop and launch the PHP Manager installation.
 </p>
 <br />
 
@@ -396,7 +396,7 @@ Click Install.
 
 </p>
 <p>
-Afterthe installation is complete check the Launch the MySQL Instance Configuration Wizard and click Finish.
+After the installation is complete check the Launch the MySQL Instance Configuration Wizard and click Finish.
 </p>
 <br />
 
@@ -470,7 +470,7 @@ After all the configuratons are done processing click Finish.
 
 </p>
 <p>
-Type IIS in the search bar and launch IIS
+Type IIS in the search bar and launch IIS.
 </p>
 <br />
 
@@ -481,7 +481,7 @@ Type IIS in the search bar and launch IIS
 
 </p>
 <p>
-Navigate to the PHP Manager and launch the application
+Navigate to the PHP Manager and launch the application.
 </p>
 <br />
 
@@ -493,7 +493,7 @@ Navigate to the PHP Manager and launch the application
 
 </p>
 <p>
-  Here, we have to provide a path for the php executable.
+  Here, I have to provide a path for the php executable.
 </p>
 <br />
 
@@ -559,7 +559,7 @@ Right click again and start the connectionton.
 
 </p>
 <p>
-Go yo the osTicket installtion files, right click on the osTicket-v1.15.8 file and click Extract All
+Go yo the osTicket installtion files, right click on the osTicket-v1.15.8 file and click Extract All.
 </p>
 <br />
 
@@ -574,7 +574,7 @@ Go yo the osTicket installtion files, right click on the osTicket-v1.15.8 file a
 </p>
 <p>
 Extract files within the osTicket Installtion folder and copy the “upload” folder into “c:\inetpub\wwwroot”
-Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”.
 
 </p>
 <br />
