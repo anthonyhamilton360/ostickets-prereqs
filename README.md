@@ -277,7 +277,7 @@ Navigate to the C drive and within Windows folder create a new folder.
 
 </p>
 <p>
-Rename the folder to PHP
+Rename the folder to PHP.
 </p>
 <br />
 
@@ -347,7 +347,7 @@ Go to the osticket installtion folder and launch the mysql installer.
 
 </p>
 <p>
-Click Next
+Click Next.
 </p>
 <br />
 
@@ -546,7 +546,7 @@ Within IIS, right click and stop the connection.
 
 </p>
 <p>
-Right click again and start the connectionton.
+Right click again and start the connection.
 </p>
 <br />
 
@@ -749,9 +749,6 @@ Allow all permissions and click OK.
   
 ![Screenshot 2025-03-09 002852](https://github.com/user-attachments/assets/27b9d307-be7a-4c72-b164-b8c849a439ba)
 
-
-
-
 <p>
 Click OK.
 </p>
@@ -771,7 +768,7 @@ Fill out basic information for the installer.
 ![Screenshot 2025-03-09 003331](https://github.com/user-attachments/assets/9c440b6a-b7f7-402e-8fda-9e8cf99a6a1a)
 
 <p>
-Navigate to osTicket installation folder launch HeidiSQL
+Navigate to osTicket installation folder launch HeidiSQL.
 </p>
 <br />
 
@@ -798,7 +795,7 @@ Check all boxes and click Next.
 ![Screenshot 2025-03-09 003425](https://github.com/user-attachments/assets/b417e66b-b5f3-4195-b995-bffb1395c932)
 
 <p>
-Make sure "Launch HeidiSQL" is checked and click Finish
+Make sure "Launch HeidiSQL" is checked and click Finish.
 </p>
 <br />
 
@@ -818,7 +815,7 @@ Once Heidi is launched, click New. The user name and password will be root and c
 
 
 <p>
-Right click and create a new Database
+Right click and create a new Database.
 </p>
 <br />
 
@@ -828,7 +825,7 @@ Right click and create a new Database
 
 
 <p>
-Name the database "osTicket"
+Name the database "osTicket".
 </p>
 <br />
 
@@ -838,7 +835,7 @@ Name the database "osTicket"
 
 
 <p>
-The information we used to create our database will be used for the configuration settings for the osTicket installer.
+The information I used to create our database will be used for the configuration settings for the osTicket installer.
 </p>
 <br />
 
@@ -858,7 +855,7 @@ osTicket has been successfully installed!
 
 
 <p>
-Refresh the osTicket database
+Refresh the osTicket database.
 </p>
 <br />
 
